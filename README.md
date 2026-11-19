@@ -1,5 +1,7 @@
 # agent-skills
 
+[![skills.sh](https://skills.sh/b/tuxtof/agent-skills)](https://skills.sh/tuxtof/agent-skills)
+
 Skills for coding agents (OpenCode, Claude Code, Codex, Cursor…). A skill is a folder containing a `SKILL.md` file (instructions plus a description that tells the agent when to load it) and, when needed, scripts and reference documents the agent uses during the task.
 
 ## Available skills
