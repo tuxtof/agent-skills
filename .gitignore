@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Résultats de tests skill-creator
+*-workspace/
+
+# Fichiers média de test
+*.mkv
+*.mp4
+*.wav
+*.aiff
+
+# Éditeurs
+.vscode/
+.idea/
